@@ -1,8 +1,9 @@
 # InterviewSummary
 
-Fighting for  a good result
+Fighting for  a good result    
 
-以下哪一个是“表示学习”的算法？
+以下哪一个是“表示学习”的算法？       
+
 A.K近邻
 <font color=red size=5>B.神经网络</font>
 C.都不是
